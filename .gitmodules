@@ -1,0 +1,3 @@
+[submodule "third-party/karafuto-core"]
+	path = third-party/karafuto-core
+	url = https://github.com/AnKano/karafuto-core.git

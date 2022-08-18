@@ -1,0 +1,6 @@
+.vscode
+.idea
+
+assets/elevation/*.hgt
+
+cmake-*
