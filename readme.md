@@ -1,6 +1,6 @@
 # Karafuto Layer Native C++ Example
 
-Static linking example with the Raylib framework.
+Static linking example with the Raylib framework. Based on [Karafuto Layer library](https://github.com/AnKano/karafuto-core).
 
 <img src="github-assets/screenshot-osm.png" height="400" />
 <img src="github-assets/screenshot-mapbox-satellite.png" height="400" />
